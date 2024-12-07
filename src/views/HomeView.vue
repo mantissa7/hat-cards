@@ -180,15 +180,7 @@
       user-select: none;
 
       &.dragover {
-        /* opacity: 0; */
-        /* pointer-events: none; */
-        /* position: absolute; */
-        /* inset: 0; */
         border: 2px dotted #fff;
-        /* display: grid; */
-        /* place-items: center; */
-        /* background: rgba(23, 23, 23, 0.7); */
-        /* z-index: 10; */
       }
     }
   }
